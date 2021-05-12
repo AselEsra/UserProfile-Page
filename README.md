@@ -8,10 +8,10 @@ Alatoo-Library
 
 ## Project Description
 
-A web application created using Java with Spring Framework. This web application uses ***postgres*** database in order to store the data provided. Since it is deployed to heroku, any student of Alatoo University can access this application and can request a book just by typing the information needed.
+A web application created using Java with Spring Framework. This web application uses ***postgres*** database in order to store the data provided, ***spring security*** to create a secure login and logout envionment. It is designed for the librarians of our university. No one, rather than our librarians, can see or edit university's library database.
 
 Click the heroku link below to request a book immediately!
-> [Heroku Link](https://books333database.herokuapp.com/)
+> [Heroku Link](https://cs204libraryproject.herokuapp.com/login)
 
 ### Login and register Page 
 
