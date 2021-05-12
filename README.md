@@ -4,7 +4,7 @@ Alatoo-Library
 - ***Name and Surname:*** *Asel Esra Ozyilmaz*
 - ***Email:*** *esra.ozyilmaz@iaau.edu.kg*
 - *Computer Science Department of Alatoo International University.*
-- *Individual midterm project for CS 204: Back-end Development with Spring Framework*
+- *Individual final project for CS 204: Back-end Development with Spring Framework*
 
 ## Project Description
 
